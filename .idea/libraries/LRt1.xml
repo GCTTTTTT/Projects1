@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="LRt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/fastjson-1.2.75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LRt1/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

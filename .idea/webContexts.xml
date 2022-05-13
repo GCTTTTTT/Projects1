@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/LRt1/src/main/webapp/article/addArticle.jsp" value="file://$PROJECT_DIR$/LRt1/src/main/webapp/article" />
+        <entry key="file://$PROJECT_DIR$/LRt1/src/main/webapp/article/edit.jsp" value="file://$PROJECT_DIR$/LRt1/src/main/webapp/article" />
+        <entry key="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp/login.jsp" value="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp" />
+        <entry key="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp/new_sec_page.jsp" value="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp" />
+        <entry key="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp/uploadShow2_div.jsp" value="file://$PROJECT_DIR$/LRt1/src/main/webapp/jsp" />
+      </map>
+    </option>
+  </component>
+</project>
